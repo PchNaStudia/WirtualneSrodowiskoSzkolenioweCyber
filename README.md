@@ -1,1 +1,1 @@
-# Wirtualne-rodowiskoSzkolenioweCyber
+# WirtualneSrodowiskoSzkolenioweCyber
