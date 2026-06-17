@@ -10,3 +10,6 @@ UserSettings/
 *.unityproj
 *.sln
 *.user
+*.unitypackage
+*.zip
+*.rar
