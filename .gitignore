@@ -13,3 +13,9 @@ UserSettings/
 *.unitypackage
 *.zip
 *.rar
+
+
+.idea
+
+Assets/Resources/OAuthConfig.asset
+Assets/Resources/OAuthConfig.asset.meta
